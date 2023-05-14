@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\bin\Debug\net7.0\ProduceMucho.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\bin\Debug\net7.0\ProduceMucho.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\bin\Debug\net7.0\ProduceMucho.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\bin\Debug\net7.0\ProduceMucho.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\bin\Debug\net7.0\ProduceMucho.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ProduceMucho.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ProduceMucho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ProduceMucho.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ProduceMucho.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ProduceMucho.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ProduceMucho.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\refint\ProduceMucho.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ProduceMucho.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ProduceMucho.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\GUIA-10\ProduceMucho\obj\Debug\net7.0\ref\ProduceMucho.dll
